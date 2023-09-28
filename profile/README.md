@@ -1,4 +1,3 @@
-### Argus Labs
 [Website](https://argus.gg/) | [Twitter](https://twitter.com/ArgusLabs_)  | [Discord](https://discord.gg/arguslabs)
 
 _"The beginning of a new world - I call it the seed.<br>
