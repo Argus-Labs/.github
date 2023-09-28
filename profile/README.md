@@ -1,7 +1,9 @@
 # ARGUS ◢ ✦ ◣
 
 _"The beginning of a new world - I call it the seed.
+
 Once it sprouts, you'll know what it is.
+
 What you do with it is up to you.” - Kayaba Akihiko_
 
 At Argus Labs, we are shaping the future of games through bleeding-edge applied research in distributed systems and game design.
